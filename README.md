@@ -5,8 +5,6 @@
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
 
-<a target="_blank" href="https://linkedin.com/in/sidbelbase/">
-<img src="https://www.linkedin.com/in/v%C3%B5-minh-hi%E1%BA%BFu-854a7b219/" alt="Linkedin Badge"></a>
 
 <br>
 
