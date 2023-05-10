@@ -1,5 +1,5 @@
 
-<img src="https://i.gifer.com/OtKo.gif" width="100%" height="100%" style="position:absolute" />
+<video src="https://i.gifer.com/OtKo.gif" width="100%" height="100%" style="position:absolute" />
 <h1 align="left"><img src="https://i.gifer.com/MVOE.gif" width="30px">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">Jeff .</a></h1>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
