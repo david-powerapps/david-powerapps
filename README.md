@@ -1,5 +1,5 @@
-
-<video src="https://i.gifer.com/OtKo.gif" width="100%" height="100%" style="position:absolute" />
+<video poster="https://i.gifer.com/fetch/w300-preview/4f/4f1a6c734b912422796b106c36f71e18.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/MVOE.mp4" type="video/mp4"></video>
+<!-- <video src="https://i.gifer.com/OtKo.gif" width="100%" height="100%" style="position:absolute" /> -->
 <h1 align="left"><img src="https://i.gifer.com/MVOE.gif" width="30px">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">Jeff .</a></h1>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
