@@ -1,6 +1,6 @@
-<video poster="https://i.gifer.com/fetch/w300-preview/4f/4f1a6c734b912422796b106c36f71e18.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/MVOE.mp4" type="video/mp4"></video>
-<!-- <video src="https://i.gifer.com/OtKo.gif" width="100%" height="100%" style="position:absolute" /> -->
-<h1 align="left"><img src="https://i.gifer.com/MVOE.gif" width="30px">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">Jeff .</a></h1>
+
+<video src="https://i.gifer.com/OtKo.gif" width="100%" height="100%" style="position:absolute" />
+<h1 align="left"><img src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t31.18172-8/13063153_544838315702276_1336752693649408473_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=H0X2zmv-o5sAX8sLVeB&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfDok9o1WVTQPI-m2fNcGpdKZOUvNkl-gt99XAM1mVM_mQ&oe=6483287D" width="30px">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">Jeff .</a></h1>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
 
