@@ -1,5 +1,5 @@
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/MaCpQjMmUJotxXwkIl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bettercallsaulAMC-better-call-saul-bcs-s5-507-MaCpQjMmUJotxXwkIl">via GIPHY</a></p>
+<img src="https://giphy.com/embed/MaCpQjMmUJotxXwkIl" width="100%" height="100%" style="position:absolute" />
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">Jeff .</a></h1>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
