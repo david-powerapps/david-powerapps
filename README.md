@@ -1,5 +1,5 @@
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<img src="[https://images.unsplash.com/photo-1574619309270-3dfcf95d7889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80](https://33.media.tumblr.com/71338e7012f5520b6495eb75de4f4629/tumblr_nkakjj8UKI1rapq0jo2_500.gif)" width="30px">
 <h1 align="left">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">Jeff .</a></h1>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
