@@ -66,6 +66,9 @@ const sidbelbase = {
  note : each time you reopen project you have to run cmd ``source .alias`` (one time) then ``run`` to start 
 
  
+ 
+       - Create an alias to shorten the command ``./mvnw spring-boot:run.``
+
       - Kill port `8080,3000,...`
 
 1. Find: `` sudo lsof -i :3000 ``
