@@ -71,7 +71,7 @@ const sidbelbase = {
 
 1. Find: `` sudo lsof -i :3000 ``
  
-2. Kill: kill -9 <PID>
+2. Kill: `` kill -9 <PID NUMBER > ``
  
 </details>
 
