@@ -50,7 +50,7 @@ const sidbelbase = {
    </summary>
 
  
-       - Create an alias to shorten the command ``./mvnw spring-boot:run.``
+       Create an alias to shorten the command ``./mvnw spring-boot:run.``
 
 1. In the terminal tab within IntelliJ IDEA, navigate to the root folder of your project.
 
@@ -67,9 +67,7 @@ const sidbelbase = {
 
  
  
-       - Create an alias to shorten the command ``./mvnw spring-boot:run.``
-
-      - Kill port `8080,3000,...`
+       Find (and kill) process locking port 3000,8080 on Mac 
 
 1. Find: `` sudo lsof -i :3000 ``
  
