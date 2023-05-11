@@ -7,6 +7,7 @@
 
 <br>
 
+ 
   <details>
     <summary>
     <strong>MORE ABOUT ME</strong>
@@ -23,12 +24,16 @@ const sidbelbase = {
   experiences: [ ],
 }
 ```
-
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://www.facebook.com/hieuhas/"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
-<h3 align="left">Some random tips and tricks I figured out while coding.</h3>
+</details>
 
-
+  <details>
+   <summary>
+      <h3 align="left">Some random tips and tricks I figured out while coding.</h3>
+   </summary>
+```javascript
+const sidbelbase = {
 #Create an alias to shorten the command ./mvnw spring-boot:run.
 
 1. In the terminal tab within IntelliJ IDEA, navigate to the root folder of your project.
@@ -44,4 +49,10 @@ const sidbelbase = {
 
 5. Well done, just run the following command to test the alias [each time reopen project you have to run cmd ``source .alias`` (one time) then ``run`` to start ]
 
+
+}
+```
 </details>
+
+
+
