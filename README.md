@@ -28,14 +28,15 @@ const sidbelbase = {
 
 </details>
 
-  <details>
+<details>
    <summary>
       <h3 align="left">Some random tips and tricks I figured out while coding.</h3>
    </summary>
-```javascript
-const sidbelbase = {
-#Create an alias to shorten the command ./mvnw spring-boot:run.
-
+<details>
+   <summary>
+      <h4 align="left">Create an alias to shorten the command ``./mvnw spring-boot:run.``</h4>
+   </summary>
+ 
 1. In the terminal tab within IntelliJ IDEA, navigate to the root folder of your project.
 
 2. Create a .bash_aliases file in the root folder of your project if it doesn't already exist. To create the file, run the following command:
@@ -48,10 +49,8 @@ const sidbelbase = {
 4. In the terminal, run the following command to reload your aliases: ``source .alias``
 
 5. Well done, just run the following command to test the alias [each time reopen project you have to run cmd ``source .alias`` (one time) then ``run`` to start ]
+ </details>
 
-
-}
-```
 </details>
 
 
