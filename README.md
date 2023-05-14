@@ -51,7 +51,7 @@ const sidbelbase = {
 2. Create a .alias file in the root folder of your project if it doesn't already exist.
  To create the file, run the following command: `` touch .alias ``
 
-3. Open the .alias file, add the following line to the file: ``  alias run='./mvnw spring-boot:run’ ``
+3. Open the .alias file, add the following line to the file: ``  alias run='./mvnw spring-boot:run' ``
    This will create an alias ``run`` for the command ``./mvnw spring-boot:run.``
 
 4. In the terminal, run the following command to reload your aliases: ``source .alias``
