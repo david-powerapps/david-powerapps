@@ -58,14 +58,6 @@ const sidbelbase = {
 
 5. Well done, just run the following command to test the alias
  note : each time you reopen project you have to run cmd ``source .alias`` (one time) then ``run`` to start 
-
- 
- 
-       Find (and kill) process locking port 3000,8080 on Mac 
-
-1. Find: `` sudo lsof -i :3000 ``
- 
-2. Kill: `` kill -9 <PID NUMBER > ``
  
 </details>
 
