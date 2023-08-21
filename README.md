@@ -43,22 +43,7 @@ const sidbelbase = {
       <h3 align="left">Some random tips and tricks I figured out while coding.</h3>
    </summary>
 
- 
-       Create an alias to shorten the command ``./mvnw spring-boot:run.``
 
-1. In the terminal tab within IntelliJ IDEA, navigate to the root folder of your project.
-
-2. Create a .alias file in the root folder of your project if it doesn't already exist.
- To create the file, run the following command: `` touch .alias ``
-
-3. Open the .alias file, add the following line to the file: ``  alias run='./mvnw spring-boot:run' ``
-   This will create an alias ``run`` for the command ``./mvnw spring-boot:run.``
-
-4. In the terminal, run the following command to reload your aliases: ``source .alias``
-
-5. Well done, just run the following command to test the alias
- note : each time you reopen project you have to run cmd ``source .alias`` (one time) then ``run`` to start 
- 
 </details>
 
 
