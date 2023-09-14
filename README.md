@@ -21,11 +21,11 @@
 const sidbelbase = {
   availableForHire: true,
   education: "UnderGraduate",
-  otherAlias: "Back-end Developer",
-  codesIn: [ "Java","J2EE","Java Swing","VueJs","NextJs", "HTML", "CSS","MySQL"],
-  currentlylearning: ["TailwindCss","SwiftUI","SpringBoot"],
+  otherAlias: "Full-stack Developer",
+  codesIn: [ "Java","J2EE","VueJs","NextJs","TypeScript","MySQL"],
+  currentlylearning: ["SpringBoot"],
   toolsUsing: ["PostMan","GitKraken","IntelliJ IDEA","Brave"],
-  experiences: [ ],
+  experiences: [ 3Mth ],
 }
 ```
  <div>
