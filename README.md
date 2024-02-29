@@ -25,7 +25,7 @@ const sidbelbase = {
   codesIn: [ "Java","J2EE","VueJs","NextJs","TypeScript","MySQL"],
   currentlylearning: ["SpringBoot"],
   toolsUsing: ["PostMan","GitKraken","IntelliJ IDEA","Brave"],
-  experiences: [ 3Mth with NextJS ],
+  experiences: [ 4Mth with NextJS ],
 }
 ```
  <div>
