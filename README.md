@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<h1 align="left">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">Jeff .</a></h1>
+<h1 align="left">Hello There, I'm <a href="https://www.facebook.com/hieuhas/">David .</a></h1>
 
 <h3 align="left">I seek to contribute to this world with my algorithms and abstractions.</h3>
 
