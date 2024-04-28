@@ -19,13 +19,13 @@
 
 ```javascript
 const sidbelbase = {
-  availableForHire: true,
+  availableForHire: false,
   education: "UnderGraduate",
   otherAlias: "Full-stack Developer",
-  codesIn: [ "Java","J2EE","VueJs","NextJs","TypeScript","MySQL"],
-  currentlylearning: ["SpringBoot"],
-  toolsUsing: ["PostMan","GitKraken","IntelliJ IDEA","Brave"],
-  experiences: [ 4Mth with NextJS ],
+  codesIn: [ "Java","J2EE","VueJs","NextJs","TypeScript","MySQL","Dynamics 365"],
+  currentlylearning: ["Deep Dive To Microsoft Dynamic 365 (Power Apps)"],
+  toolsUsing: ["PostMan","GitKraken","VS Code","Brave"],
+  experiences: [ 4mth with NextJS , 2mth with Dynamics 365 ],
 }
 ```
  <div>
