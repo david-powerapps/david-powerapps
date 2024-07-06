@@ -22,13 +22,14 @@ const sidbelbase = {
   availableForHire: false,
   education: "UnderGraduate",
   otherAlias: "Full-stack Developer",
-  codesIn: [ "Java","J2EE","VueJs","NextJs","TypeScript","MySQL","Dynamics 365"],
-  currentlylearning: ["Deep Dive To Microsoft Dynamic 365 (Power Apps)"],
+  codesIn: [ "Dynamics 365" , "JavaScript" , "TypeScript" ],
+  currentlylearning: ["Microsoft Dynamics 365"],
   toolsUsing: ["PostMan","GitKraken","VS Code","Brave"],
-  experiences: [ 4mth with NextJS , 2mth with Dynamics365 ],
+  experiences: [ 4mth with NextJS , 4mth with Dynamics365 ],
 }
 ```
- <div>
+<!-- 
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -36,6 +37,7 @@ const sidbelbase = {
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title="Next JS"  alt="Next Js" width="40" height="40" />&nbsp;
 
 </div>
+-->
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://www.facebook.com/hieuhas/"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
 </details>
